@@ -1,13 +1,16 @@
-
-h3{
-
-     text-decoration: underline;
-     color: royalblue;
+html, body{
+font-family: Arial, Helvetica, sans-serif;
 }
+.headings{
+     color: blue;
+     text-decoration: underline;
+}
+.Date{
+color: rgb(214, 29, 29);
 
-p{
+}
+.time{
+color: crimson;
 
-     text-decoration: none;
-     color: blueviolet;
 }
     
